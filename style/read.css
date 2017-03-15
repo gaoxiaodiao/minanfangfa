@@ -1,0 +1,29 @@
+﻿/*通用*/
+
+*{ margin:0; padding:0;font-family:"微软雅黑",Arial,Helvetica;font-size:12px;list-style:none;WORD-BREAK:break-all;}
+a:link  h1{FONT-WEIGHT: bold; font-size:36px; color: #ff3300; FONT-FAMILY: "微软雅黑";margin-bottom:12px;letter-spacing:0.3em;}
+a:link,a:visited{color:#454545; text-decoration:none;}
+a:hover{color:#fe8a01; text-decoration:none;}
+a h3{BORDER-RIGHT: #bcdff3 4px double; TABLE-LAYOUT: fixed; PADDING-RIGHT: 0px; BORDER-TOP: #bcdff3 4px double; PADDING-LEFT: 10px; FLOAT: left; PADDING-BOTTOM: 0px; OVERFLOW: hidden; BORDER-LEFT: #bcdff3 4px double; WIDTH:48.08%; BORDER-BOTTOM: #bcdff3 4px double; HEIGHT: 30px;line-height:30px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left}
+b{ letter-spacing:0.3em;font-size:16px; padding:0.3em;line-height:1.8em;font-weight:500;}
+/*主页*/
+body{background:#f0fafe;}
+.box{ width:970px; margin:0 auto; height:100%;text-align:center;}
+.chapter {MARGIN-TOP: 3px; FONT-SIZE: 9pt; MARGIN:0px auto; WIDTH: 940px; LINE-HEIGHT: 130%; TEXT-ALIGN: left}
+.chapter h2{BORDER-RIGHT: #94bed8 1px solid; BORDER-TOP: #94bed8 1px solid; BORDER-LEFT: #94bed8 1px solid; WIDTH: auto; PADDING-TOP: 9px; HEIGHT: 24px; BACKGROUND-COLOR: #bcdff3; TEXT-ALIGN: center;}
+#ListEnd {CLEAR: both! important; WIDTH: 100%; HEIGHT: 2px}
+#special{color:#fe8a01;letter-spacing:0.3em;text-align:center;font-weight: 600;}
+/*内容页*/
+#readcon{ margin:0px; clear:both}
+#readcon h1 {clear:both;color:#7B4900;font-family:"黑体";font-size:18px;font-weight:normal;margin-top:10px;padding-bottom:1px;text-align:center;}
+#readcon h2{color:#7B4900;font-family:"黑体";font-size:16px;font-weight:normal;text-align:left;}
+#readtext{ padding:18px 0px; margin:3px auto; }
+.content{ text-align:left; font-size:16px; padding:3px;line-height:1.8em;margin-bottom:12px;letter-spacing:2.1px;}
+.content p{font-size:21px;color:red;padding-bottom:21px;}
+.button{ text-align:center; padding:10px;line-height:2.8em;font-size:14px; color:#025b81; }
+.button *{ font-size:14px; }
+.button span, .button a:link, .button a:visited{font-size:14px;color:#025b81; margin:0 30px;}
+/*底部*/
+#more,#more a{color:#025b81;font-size: 16px;letter-spacing:0.3em;line-height: 1.8em;font-weight: 500;margin-bottom:9px}
+#readfc{text-align:center;color:#025b81;font-size:14px;line-height:30px;}
+#readfc a:link,#readfc a:visited{font-size:14px;color:#025b81;}
